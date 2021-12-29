@@ -308,10 +308,16 @@ Contact:
 
 ### Home Page:
 
-![output]()
-![output]()
-![output]()
-![output]()
+![output](1.png)
+
+### products Page:
+![output](2.png)
+
+### people Page:
+![output](3.png)
+
+### contact Page:
+![output](4.png)
 
 
 ## Result:
